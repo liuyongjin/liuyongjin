@@ -1,25 +1,16 @@
 ## Hi there 👋
 
-<!--
-**liuyongjin/liuyongjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am liuyongjin, currently working on Front-end development engineer. The developed projects include:
 
-Here are some ideas to get you started:
+- [l-admin | react18后台管理模板](https://github.com/liuyongjin/l-admin)
+- [pure_admin | vue2后台管理模板](https://github.com/liuyongjin/pure_admin)
+- [ng-blog | angular16示例博客项目](https://github.com/liuyongjin/ng-blog)
+- [web3-next-learn-app | web3钱包示例项目](https://github.com/liuyongjin/web3-next-learn-app)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skill description
+
+`React`, `Vue`, `Angular`, `NodeJS`, `Php`, `Java`, `Web3`.
+
+<img src="https://github-readme-stats.vercel.app/api?username=liuyongjin&show_icons=true&theme=transparent" /> 
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=liuyongjin&show_icons=true&theme=transparent" /> 
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liuyongjin&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" />
-</div>
