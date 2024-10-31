@@ -7,10 +7,11 @@ I am liuyongjin, currently working on Front-end development engineer. The develo
 - [ng-blog | angular16示例博客项目](https://github.com/liuyongjin/ng-blog)
 - [web3-next-learn-app | web3钱包示例项目](https://github.com/liuyongjin/web3-next-learn-app)
 
-### Skill description
+## Skill description
 
 `React`, `Vue`, `Angular`, `NodeJS`, `Php`, `Java`, `Web3`.
 
 <img src="https://github-readme-stats.vercel.app/api?username=liuyongjin&show_icons=true&theme=transparent" /> 
 
-
+## Contact me
+- 📫 email: 572551431@qq.com
