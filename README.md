@@ -16,4 +16,4 @@ I am liuyongjin, currently working on Front-end development engineer. The develo
 <img src="https://github-readme-stats.vercel.app/api?username=liuyongjin&show_icons=true&theme=transparent" /> 
 
 ## Contact me
-- 📫 email: 572551431@qq.com
+- I'm looking for a remote development job. Please contact me: 572551431@qq.com 📫
