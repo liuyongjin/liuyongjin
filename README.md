@@ -2,6 +2,8 @@
 
 I am liuyongjin, currently working on Front-end development engineer. The developed projects include:
 
+- [l-ai | AI 聊天应用](https://github.com/liuyongjin/l-ai)
+- [l-ai-electron | AI 聊天应用Electron版本](https://github.com/liuyongjin/l-ai-electron)
 - [l-admin | react18后台管理模板](https://github.com/liuyongjin/l-admin)
 - [pure_admin | vue2后台管理模板](https://github.com/liuyongjin/pure_admin)
 - [ng-blog | angular16示例博客项目](https://github.com/liuyongjin/ng-blog)
