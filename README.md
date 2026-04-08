@@ -18,4 +18,4 @@ I am liuyongjin, currently working on Web development engineer. The developed pr
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=liuyongjin&theme=vue)
 
 ## Contact me
-- I'm looking for a remote development job. Please contact me: currybeta777@gmail.com &nbsp;&nbsp; currybeta777@gmail.com 📫
+- I'm looking for a remote development job. Please contact me: currybeta777@gmail.com 📫
