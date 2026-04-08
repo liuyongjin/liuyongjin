@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am liuyongjin, currently working on Front-end development engineer. The developed projects include:
+I am liuyongjin, currently working on Web development engineer. The developed projects include:
 
 - [l-ai | AI Chat Application](https://github.com/liuyongjin/l-ai)
 - [l-ai-electron | Electron version of the AI Chat Application](https://github.com/liuyongjin/l-ai-electron)
@@ -9,7 +9,7 @@ I am liuyongjin, currently working on Front-end development engineer. The develo
 - [ng-blog | Angular 16 Blog Project](https://github.com/liuyongjin/ng-blog)
 - [blog_api | PHP backend API for the blog project](https://github.com/liuyongjin/blog_api)
 - [blog_java_api | Java backend API for the blog project](https://github.com/liuyongjin/blog_java_api)
-- [web3-next-learn-app | Web3 Wallet Example Project](https://github.com/liuyongjin/web3-next-learn-app)
+- [web3-next-learn-app | Web3 Wallet Project](https://github.com/liuyongjin/web3-next-learn-app)
 
 ## Skill description
 
