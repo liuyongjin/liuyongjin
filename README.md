@@ -2,7 +2,35 @@
 
 ## 📝 About Me
 
-I'm **liuyongjin**, a Frontend Developer with experience in building high-quality web applications and admin management systems. While my primary focus is frontend development, I also have backend development skills and can handle full-stack tasks when needed.
+I'm **liuyongjin**, a **Full-Stack Engineer with a Frontend focus**.
+
+I specialize in building product-facing web apps and admin systems with Vue / React / Nuxt / TypeScript, and I can own the full delivery path when needed — NestJS / Python Agent APIs, PostgreSQL, auth & RBAC, deployment, and AI feature integration.
+
+Recently I've been building AI-native products around **multi-agent collaboration**, **workflow orchestration**, and **Skills**.
+
+## ⭐ Highlight Project
+
+### [l-resume · 简流](https://github.com/liuyongjin/l-resume)
+
+**Intelligent Resume Workbench** — an AI-powered full-stack product that turns resume creation into a multi-agent workflow.
+
+| Layer | Stack |
+| :--- | :--- |
+| Frontend | Nuxt / Vue, React Admin, Expo / Flutter |
+| Backend | NestJS + PostgreSQL (Prisma) |
+| AI | Python Agent (multi-agent) + LLM |
+| Admin | Spring Boot + React (RBAC) |
+
+**What it does**
+
+- **Multi-Agent Collaboration** — agents for planning, parsing, optimizing, and generating resume content
+- **Visual Workflow Engine** — design, execute, and poll multi-step resume pipelines end-to-end
+- **Skills** — reusable AI capabilities (e.g. template-based creation, intelligent execution) plugged into the assistant
+- **Templates & Multilingual Output** — generate and edit resumes across templates / languages
+- **Global AI Assistant** — floating assistant with streaming chat, RAG, and skill invocation
+- **Admin Console** — users, resumes, workflows, execution logs, roles & menus (RBAC)
+
+> If you only check one of my repos, start here: **[l-resume](https://github.com/liuyongjin/l-resume)**
 
 ## 📊 Statistics
 
@@ -10,9 +38,9 @@ I'm **liuyongjin**, a Frontend Developer with experience in building high-qualit
 | :--- | :--- | :--- |
 | 17 | 3 | ⭐ 37 |
 
-## 🚀 Featured Projects
+## 🚀 Other Featured Projects
 
-### Frontend Projects
+### Frontend / Product
 
 | Project Name | Tech Stack | Stars | Description |
 | :--- | :--- | :--- | :--- |
@@ -25,45 +53,47 @@ I'm **liuyongjin**, a Frontend Developer with experience in building high-qualit
 | [vue-element-extends](https://github.com/liuyongjin/vue-element-extends) | Vue + Element UI | - | Vue Element UI extensions |
 | [webApp](https://github.com/liuyongjin/webApp) | Frontend Framework | - | Web application project |
 
-### Backend API Projects
+### Backend / API
 
 | Project Name | Tech Stack | Stars | Description |
 | :--- | :--- | :--- | :--- |
 | [blog_java_api](https://github.com/liuyongjin/blog_java_api) | Java | - | Blog backend API service built with Java |
-| [blog_api](https://github.com/liuyongjin/blog_api) | Php | - | Blog backend API service built with Php |
+| [blog_api](https://github.com/liuyongjin/blog_api) | PHP | - | Blog backend API service built with PHP |
 
 ## 🛠️ Tech Stack
 
-### Frontend
-- **Frameworks**: Vue.js 2/3, React 18+, Angular 16+, Next.js
-- **Languages**: JavaScript (ES6+), TypeScript
-- **UI Libraries**: Element UI, Ant Design, Tailwind CSS
-- **Desktop**: Electron
+### Frontend (Primary)
+- **Frameworks**: Vue.js 2/3, Nuxt, React 18+, Next.js, Angular 16+
+- **Languages**: TypeScript, JavaScript (ES6+)
+- **UI**: Element UI, Ant Design, Tailwind CSS
+- **Mobile / Desktop**: Expo (React Native), Flutter, Electron
 
-### Backend
-- **Languages**: Java, Php, Python, Node.js
-- **Frameworks**: Express.js, FastAPI
-- **Databases**: MySQL, MongoDB, Redis
-- **API Development**: RESTful APIs, GraphQL
+### Backend & AI
+- **Languages / Runtimes**: Node.js, Python, Java
+- **Frameworks**: NestJS, FastAPI / Flask, Spring Boot, Express.js
+- **Data**: PostgreSQL, MySQL, MongoDB, Redis, Prisma
+- **AI**: Multi-Agent systems, Workflow orchestration, Skills, RAG, SSE streaming
 
 ### DevOps & Tools
 - **Version Control**: Git, GitHub
-- **Build Tools**: Webpack, Vite, npm, yarn
-- **Testing**: Jest, Cypress
+- **Build**: Vite, Webpack, npm
+- **Deploy / Ops**: PM2, Docker-friendly layouts
+- **Testing**: Jest, Playwright, Vitest, Flutter Test
 
 ## 🎯 Expertise
 
-- **Frontend Development**: Proficient in building responsive, scalable web applications
-- **Admin Systems**: Experienced in creating enterprise-level management platforms
-- **Backend Development**: Capable of designing and implementing robust APIs and server-side logic
-- **Full Stack Integration**: Skilled in connecting frontend interfaces with backend services
+- **Frontend Architecture** — scalable SPAs / SSR apps, design systems, admin platforms
+- **Full-Stack Delivery** — from UI to API, DB schema, auth/RBAC, and deployment
+- **AI Product Engineering** — agent collaboration, workflow execution, skills, streaming UX
+- **System Integration** — connecting web / mobile / admin clients to shared backend services
 
 ## 📫 Contact
 
 - 🔗 GitHub: [liuyongjin](https://github.com/liuyongjin)
 - 📧 Email: yongjinliu51@gmail.com
 - 📁 All Projects: [View All](https://github.com/liuyongjin?tab=repositories)
+- ⭐ Spotlight: [l-resume · 简流](https://github.com/liuyongjin/l-resume)
 
 ---
 
-⭐ Thanks for visiting! Feel free to Star and Fork my projects!
+⭐ Thanks for visiting! Feel free to Star and Fork my projects — especially **[l-resume](https://github.com/liuyongjin/l-resume)**!
